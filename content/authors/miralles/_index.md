@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "PhD in social sciences, social communication, and journalism"
+role: "PhD in Social Sciences, Social Communication, and Journalism"
 
 # Organizations/Affiliations
 organizations:
