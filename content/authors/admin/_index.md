@@ -63,7 +63,7 @@ user_groups:
 - project
 ---
 This Project investigation combines exclusive Facebook data (Condor Dataset, Crowdtangle, Ad’s) and public information to quantitatively and qualitatively analyze the Social Media behavior to determine if there is coordinated non-authentic behavior. We use
-TeleSUR’s English language media operations and its partners as a caso of study.
+TeleSUR’s English language media operations and its partners as a case of study.
 
 This project in founded by the Social Media and Democracy Research Grants from the Social Science Research Council and access to Facebook data via Social Science One.
 
