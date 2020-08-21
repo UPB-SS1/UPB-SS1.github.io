@@ -62,9 +62,9 @@ email: ""
 user_groups:
 - project
 ---
-This Research Project combines exclusive Facebook data (Condor Dataset, Crowdtangle, Ad’s) and public data to quantitatively and qualitatively analyze the Social Media behavior to determine if there is coordinated non-authentic behavior. We use TeleSUR’s English language media operations and its partners as a study case.
+This Research Project combines [exclusive Facebook data ](https://socialscience.one/blog/unprecedented-facebook-urls-dataset-now-available-research-through-social-science-one)(Condor Dataset, Crowdtangle, Ad’s) and public data to quantitatively and qualitatively analyze the Social Media behavior to determine if there is coordinated non-authentic behavior. We use TeleSUR’s English language media operations and its partners as a study case.
 
-This project in founded by the Social Media and Democracy Research Grants from the Social Science Research Council and access to Facebook data via Social Science One.
+This project in founded by [the Social Media and Democracy Research Grants](https://www.ssrc.org/fellowships/view/social-media-and-democracy-research-grants/) from [the Social Science Research Council](https://www.ssrc.org/) and access to Facebook data via [Social Science One](https://socialscience.one/).
 
-The Social Media and Democracy Research Grants support research that examines the impact of social media and related digital technologies on democracy and elections.
+[the Social Media and Democracy Research Grants](https://www.ssrc.org/fellowships/view/social-media-and-democracy-research-grants/) support research that examines the impact of social media and related digital technologies on democracy and elections.
 
