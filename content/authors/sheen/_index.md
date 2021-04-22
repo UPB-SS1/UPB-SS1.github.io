@@ -77,6 +77,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- "Phd Student"
 ---
 Colombian national scholarship awardee working on his PhD in the Technology and Innovation Management program at Universidad Pontificia Bolivariana in Medellín. A graduate of New York University's Experimental Humanities Master’s Program, he's also worked extensively as a digital media strategist, data scientist, and business intelligence consultant.
