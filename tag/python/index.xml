@@ -5,12 +5,20 @@
     <link>/tag/python/</link>
       <atom:link href="/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jun 2020 07:00:29 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jan 2021 07:00:29 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Python</title>
       <link>/tag/python/</link>
     </image>
+    
+    <item>
+      <title>PyCooRnet</title>
+      <link>/project/pycoornet/</link>
+      <pubDate>Mon, 11 Jan 2021 07:00:29 -0500</pubDate>
+      <guid>/project/pycoornet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PyCrowdTangle</title>
