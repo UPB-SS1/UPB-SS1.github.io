@@ -18,7 +18,7 @@ organizations:
   url: "https://www.upb.edu.co"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data Scientist at ARUS, Master student in Data science at Universidad Pontificia Bolivariana in Medellín.
+bio: Data Scientist at Globant, Master student in Data science at Universidad Pontificia Bolivariana in Medellín.
 
 interests:
 # - Music Information Retrieval
@@ -76,7 +76,7 @@ email: ""
 user_groups:
 - Master Students
 ---
-Data Scientist at ARUS.
+Data Scientist at Globant.
 
 Master student in Data Science at Universidad Pontificia Bolivariana in Medellín, Colombia,
 
