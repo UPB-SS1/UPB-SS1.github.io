@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: pip
+  url: https://pypi.org/project/pycoornet/
+  icon_pack: fab
+  icon: python
 
 url_code: "https://github.com/UPB-SS1/PyCooRnet"
 url_pdf: ""
