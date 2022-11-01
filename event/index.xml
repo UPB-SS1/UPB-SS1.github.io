@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Camilo Soto | Social Media Behaviour</title>
-    <link>/author/camilo-soto/</link>
-      <atom:link href="/author/camilo-soto/index.xml" rel="self" type="application/rss+xml" />
-    <description>Camilo Soto</description>
+    <title>Talks | Social Media Behaviour</title>
+    <link>/event/</link>
+      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Jul 2022 11:20:00 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Camilo Soto</title>
-      <link>/author/camilo-soto/</link>
+      <title>Talks</title>
+      <link>/event/</link>
     </image>
     
     <item>
@@ -26,10 +26,10 @@
     </item>
     
     <item>
-      <title>PyCooRnet</title>
-      <link>/project/pycoornet/</link>
-      <pubDate>Mon, 11 Jan 2021 07:00:29 -0500</pubDate>
-      <guid>/project/pycoornet/</guid>
+      <title>Noticias Falsas: ¿Por qué son incontrolables? Podcast HumanaMente Ep.9</title>
+      <link>/event/humanamente/</link>
+      <pubDate>Wed, 14 Oct 2020 10:11:07 -0500</pubDate>
+      <guid>/event/humanamente/</guid>
       <description></description>
     </item>
     

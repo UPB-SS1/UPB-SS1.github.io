@@ -3,10 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-01-11T07:00:29-05:00</lastmod>
+    <lastmod>2022-07-09T11:20:00-05:00</lastmod>
   </url><url>
     <loc>/author/camilo-soto/</loc>
-    <lastmod>2021-01-11T07:00:29-05:00</lastmod>
+    <lastmod>2022-07-09T11:20:00-05:00</lastmod>
+  </url><url>
+    <loc>/tag/coordinated-link-sharing-behaviour/</loc>
+    <lastmod>2022-07-09T11:20:00-05:00</lastmod>
+  </url><url>
+    <loc>/event/pycon2022/</loc>
+    <lastmod>2022-07-09T11:20:00-05:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-07-09T11:20:00-05:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-07-09T11:20:00-05:00</lastmod>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2022-07-09T11:20:00-05:00</lastmod>
   </url><url>
     <loc>/author/jose-r.-zapata/</loc>
     <lastmod>2021-01-11T07:00:29-05:00</lastmod>
@@ -20,11 +35,8 @@
     <loc>/tag/python/</loc>
     <lastmod>2021-01-11T07:00:29-05:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-01-11T07:00:29-05:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-01-11T07:00:29-05:00</lastmod>
+    <loc>/event/humanamente/</loc>
+    <lastmod>2020-10-14T10:11:07-05:00</lastmod>
   </url><url>
     <loc>/tag/crowdtangle/</loc>
     <lastmod>2020-06-28T07:00:29-05:00</lastmod>
@@ -51,8 +63,8 @@
   </url><url>
     <loc>/publication/</loc>
   </url><url>
-    <loc>/talk/</loc>
-  </url><url>
     <loc>/author/social-media-behaviour/</loc>
+  </url><url>
+    <loc>/talk/</loc>
   </url>
 </urlset>
