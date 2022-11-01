@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camilo Soto | Social Media Behaviour</title>
+    <link>/author/camilo-soto/</link>
+      <atom:link href="/author/camilo-soto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Camilo Soto</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Jul 2022 11:20:00 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Camilo Soto</title>
+      <link>/author/camilo-soto/</link>
+    </image>
+    
+    <item>
+      <title>PyCoornet para la Detección de Comportamiento Coordinado De Intercambio de Enlaces En Redes Sociales (Coordinated Link Sharing Behavior)</title>
+      <link>/event/pycon2022/</link>
+      <pubDate>Sat, 09 Jul 2022 11:20:00 -0500</pubDate>
+      <guid>/event/pycon2022/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/eTHJJNjm7fw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>PyCooRnet</title>
+      <link>/project/pycoornet/</link>
+      <pubDate>Mon, 11 Jan 2021 07:00:29 -0500</pubDate>
+      <guid>/project/pycoornet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
